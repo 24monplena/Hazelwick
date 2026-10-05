@@ -1,0 +1,4 @@
+ticket = int(input("Enter your ticket price:"))
+price = int(input("Enter the amount of tickets:"))
+price-2 == ticket * price
+print(str(price-2) + " is the final price")

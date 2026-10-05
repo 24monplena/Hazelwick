@@ -1,0 +1,4 @@
+name_a = input("Enter user 1's name:")
+name_b = input("Enter user 2's name:")
+
+print(name_a,name_b,name_a,name_b)
