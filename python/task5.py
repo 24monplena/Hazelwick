@@ -2,4 +2,4 @@ Attribute = input("Enter an attribute:")
 texture = input("Enter a weird texture:")
 noise = input("Enter a strange noise:")
 name_3 = input("Enter a made up name:")
-print
+print("Behold! The " + texture + " " + Attribute + "ed " + name_3 + " makes a terrifying " + noise + " as it shuffles closer!")
