@@ -1,0 +1,11 @@
+import random
+num1 = random.randint(0,100)
+num2 = random.randint(0,100)
+num3 = random.randint(0,100)
+num4 = random.randint(0,100)
+num5 = random.randint(0,100)
+answer1 = int(input("i have generated 5 random numbers input your guess"))
+answer2 = int(input("i have generated 5 random numbers input your guess"))
+answer3 = int(input("i have generated 5 random numbers input your guess"))
+answer4 = int(input("i have generated 5 random numbers input your guess"))
+answer5 = int(input("i have generated 5 random numbers input your guess"))
