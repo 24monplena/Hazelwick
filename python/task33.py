@@ -9,3 +9,35 @@ answer2 = int(input("i have generated 5 random numbers input your guess"))
 answer3 = int(input("i have generated 5 random numbers input your guess"))
 answer4 = int(input("i have generated 5 random numbers input your guess"))
 answer5 = int(input("i have generated 5 random numbers input your guess"))
+score = 0
+if num1 == answer1:
+    print ("correct")
+    score = score + 10
+else:
+    print("wrong")
+
+if num2 == answer2:
+    print ("correct")
+    score = score + 10
+else:
+    print("wrong")
+
+if num3 == answer3:
+    print ("correct")
+    score = score + 10
+else:
+    print("wrong")
+
+if num4 == answer4:
+    print ("correct")
+    score = score + 10
+else:
+    print("wrong")
+
+if num5 == answer5:
+    print ("correct")
+    score = score + 10
+else:
+    print("wrong")
+
+print(score)
